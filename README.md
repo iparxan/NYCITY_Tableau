@@ -14,6 +14,7 @@ Section 4 tells us why gender does matter in this data. We can see the Dashboard
 Section 4 also shows the Bike reparis and Bike utilization for all users. In these two graph Data presents the BikeID  for repairs and trip time. 
 Last section in a story shows the relationship between the trip duration of bike users versus age . Average trip duration versus age layeout and teh results shows that tehre are two big outlier one is the bike user born 1890s and another is bike user who born 1970. Probably tehse tow type Bike is mor convienient without car being popular in 1890s and big deression in 1970s. However teh data can't tell these points.  
 
+https://public.tableau.com/views/NYCITYStory1_1/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Summary: 
 Bike user trip duration had gender differences and bike user use bike most ly less an hour in daily usage. People use bike rush hours more frequently than the other time during the day. Future we should add usage of car since year by year people use car than bike in their work especially when we checking of relationship between bike trip duration with age.
