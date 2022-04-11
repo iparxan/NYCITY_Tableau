@@ -19,4 +19,4 @@ https://public.tableau.com/views/NYCITYStory1_1/Story1?:language=en-US&publish=y
 ### Summary: 
 Bike user trip duration had gender differences and bike user use bike most ly less an hour in daily usage. People use bike rush hours more frequently than the other time during the day. Future we should add usage of car since year by year people use car than bike in their work especially when we checking of relationship between bike trip duration with age.
 
-### There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Bike used for short distance or short trip such as less than one hour.
